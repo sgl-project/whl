@@ -13,4 +13,4 @@ pip3 install sgl-kernel
 
 For Blackwell (CUDA 12.8, CUDA 12.9, GB200):
 
-https://github.com/sgl-project/whl/releases/tag/v0.3.4.post1
+https://github.com/sgl-project/whl/releases/tag/v0.3.7
