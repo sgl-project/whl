@@ -5,12 +5,4 @@ Kernel Library Wheel for SGLang
 
 ## Installation
 
-For Ampere and Hopper (CUDA 12.1, CUDA 12.4, CUDA 12.6, CUDA 12.8):
-
-```bash
-pip3 install sgl-kernel
-```
-
-For Blackwell (CUDA 12.8, CUDA 12.9, GB200):
-
-https://github.com/sgl-project/whl/releases/tag/v0.3.7
+**Starting from version 0.3.14, this repository is no longer needed. Please use `pip3 install sgl-kernel --upgrade` instead.**
