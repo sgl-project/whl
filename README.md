@@ -1,8 +1,19 @@
 # whl
-Kernel Library Wheel for SGLang
 
-[![PyPI](https://img.shields.io/pypi/v/sgl-kernel)](https://pypi.org/project/sgl-kernel)
+[![PyPI](https://img.shields.io/pypi/v/sglang-kernel)](https://pypi.org/project/sglang-kernel/)
 
-## Installation
+This repository hosts the **wheel index page** for [SGLang](https://github.com/sgl-project/sglang) packages. It is not the source code repository — it serves as a [PEP 503](https://peps.python.org/pep-0503/)-compatible package index for distributing pre-built wheels.
 
-**Starting from version 0.3.14, this repository is no longer needed. Please use `pip3 install sgl-kernel --upgrade` instead.**
+## Usage
+
+- **Install a kernel package with a specific CUDA version:**
+  ```bash
+  pip install sgl-kernel --index-url https://docs.sglang.ai/whl/cu124
+  ```
+
+- **Install nightly builds:**
+  ```bash
+  pip install sglang --index-url https://docs.sglang.ai/whl/nightly/cu129
+  ```
+
+- **Browse available wheels:** Visit the [GitHub Releases](https://github.com/sgl-project/whl/releases) page, where all binary wheel files are hosted.
