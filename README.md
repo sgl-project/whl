@@ -8,12 +8,12 @@ This repository hosts the **wheel index page** for [SGLang](https://github.com/s
 
 - **Install a kernel package with a specific CUDA version:**
   ```bash
-  pip install sgl-kernel --index-url https://docs.sglang.ai/whl/cu124
+  pip install sgl-kernel --index-url https://docs.sglang.io/whl/cu124
   ```
 
 - **Install nightly builds:**
   ```bash
-  pip install sglang --index-url https://docs.sglang.ai/whl/nightly/cu129
+  pip install sglang --index-url https://docs.sglang.io/whl/nightly/cu129
   ```
 
 - **Browse available wheels:** Visit the [GitHub Releases](https://github.com/sgl-project/whl/releases) page, where all binary wheel files are hosted.
