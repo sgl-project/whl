@@ -8,7 +8,7 @@ This repository hosts the **wheel index page** for [SGLang](https://github.com/s
 
 - **Install a kernel package with a specific CUDA version:**
   ```bash
-  pip install sgl-kernel --index-url https://docs.sglang.io/whl/cu124
+  pip install sglang-kernel --index-url https://docs.sglang.io/whl/cu129
   ```
 
 - **Install nightly builds:**
