@@ -13,7 +13,7 @@ This repository hosts the **wheel index page** for [SGLang](https://github.com/s
 
 - **Install nightly builds:**
   ```bash
-  pip install sglang --index-url https://docs.sglang.io/whl/nightly/cu129
+  pip install sglang --index-url https://docs.sglang.io/whl/cu130
   ```
 
 - **Browse available wheels:** Visit the [GitHub Releases](https://github.com/sgl-project/whl/releases) page, where all binary wheel files are hosted.
